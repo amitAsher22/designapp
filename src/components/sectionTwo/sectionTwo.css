@@ -1,0 +1,26 @@
+.bgSectionTwo{
+  background-color: rgb(221, 193, 194);
+  width: 100%;
+  
+}
+
+.sectionTwoSpan{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 1.5rem;
+  gap: 0.3rem;
+ 
+}
+
+.span22{
+  font-size: 1.4rem;
+  color: white;
+font-weight: normal;
+}
+.span222{
+  font-size: 2rem;
+  color: rgb(255, 255, 255);;
+font-weight: normal;
+}

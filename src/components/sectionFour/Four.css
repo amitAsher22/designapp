@@ -1,0 +1,52 @@
+.bgFour{
+  background-color: rgb(221, 193, 194);
+  width: 100%;
+  padding: 2rem;
+  
+}
+
+.titelsFour{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: rgb(255, 255, 255);;
+}
+
+.inputsFour{
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  gap: 1rem;
+}
+
+input{
+  padding: 10px 15px;
+  font-size: 1rem;
+  color: black;
+}
+
+.btnFour{
+  padding: 10px 20px;
+  background: rgb(149, 138, 135);
+  border: none;
+  font-size: 1.2rem;
+}
+
+@media (orientation :portrait ){
+  .inputsFour{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0;
+
+  }
+
+  input{
+    width: 100%;
+  }
+
+  .bgFour{
+padding: 1rem 0px;
+  }
+}

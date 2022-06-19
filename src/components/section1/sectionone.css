@@ -1,0 +1,50 @@
+.imgBg{
+  background-image: url("https://content.vp4.me/lizashtern/Content/%d7%a2%d7%99%d7%a6%d7%95%d7%91-%d7%93%d7%a3-%d7%a0%d7%97%d7%99%d7%aa%d7%94_main-banner_1367x768.jpg");
+  width: 100%;
+  height: 100%;
+ 
+}
+
+.titleSectionOne{
+  padding: 22px 0px;
+  display: flex;
+  justify-content: center;
+  font-weight: 100;
+
+}
+
+.title2sectionOne{
+  padding: 15px 0px;
+  display: flex;
+  justify-content: center;
+  font-weight: bolder;
+  font-size: 3.5rem;
+  color: rgb(77, 77, 77);
+}
+
+.otherTitleSectionOne{
+  display: flex;
+  justify-content: center;
+  font-size:2rem;
+  font-weight: normal;
+  color:rgb(77, 77, 77);
+}
+
+.textSpanDivSectionOne{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 2rem ;
+  gap: 0.3rem;
+}
+
+.span1{
+  font-size: 1.4rem;
+  color:rgb(77, 77, 77);
+  font-weight: normal;
+}
+.span2{
+  font-size: 1.4rem;
+  color:rgb(77, 77, 77);
+  font-weight: normal;
+}

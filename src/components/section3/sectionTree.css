@@ -1,0 +1,13 @@
+.SectionTree{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  width: 100%;
+}
+
+.t3{
+font-size: 1.3rem;
+color:rgb(77, 77, 77);
+}
